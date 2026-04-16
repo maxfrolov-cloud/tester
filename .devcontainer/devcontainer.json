@@ -1,0 +1,5 @@
+{
+  "name": "Web + Selenium",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "postCreateCommand": "bash .devcontainer/setup.sh && npm install"
+}
